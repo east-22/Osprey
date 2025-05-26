@@ -52,3 +52,10 @@
 - Grab passwords
 
 ### Screenshots:
+<p align="center">
+  <img src="OspreyDashboard.png" width="49%"> 
+  <img src="OspreyDC.png" width="49%"> 
+  <img src="OspreyBuilder.png" width="49%"> 
+  <img src="OspreyNetwork.png" width="49%">
+  <br><br>
+</p>
