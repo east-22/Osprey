@@ -1,5 +1,8 @@
 
 # Osprey V1.5
+<p align="center">
+   <a href="https://discord.gg/GsRGYddPNc">JOIN THE DISCORD</a>
+</p>
 <p align="center" style="text-align: center"> 
   <img width="1200" alt="image" src="https://github.com/east-22/Osprey/blob/9120978e50403180e62dfa222f3e92507e45cfc3/Osprey%20Banner.png">
 </p>
