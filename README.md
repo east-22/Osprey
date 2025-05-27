@@ -3,6 +3,10 @@
 <p align="center">
    <a href="https://discord.gg/GsRGYddPNc">JOIN THE DISCORD</a>
 </p>
+
+   <h3 align="center">GROWTOPIA STEALER WORKING & COMING SOON</h1>
+   <h4 align="center">Preview Video In The Discord!</h4>
+
 <p align="center" style="text-align: center"> 
   <img width="1200" alt="image" src="https://github.com/east-22/Osprey/blob/9120978e50403180e62dfa222f3e92507e45cfc3/Osprey%20Banner.png">
 </p>
