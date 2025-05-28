@@ -48,12 +48,14 @@
         ├── Grab Passwords (Coming soon)
         ├── Roblox session
         ├── Minecraft session
-        ├── Growtopia account (Coming Soon)
+        ├── Growtopia account (NEW)
         └── Crypto Wallets (Coming Soon)          
 ```
 
 ### To Do
-- Growtopia Stealer
+- Mac addresses for growtopia
+- Check hosts file for private servers (Growtopia)
+  Why? Because then you can see if the victim has logged in to a private server or real growtopia server.
 - Token Sniper
 - Crypto Wallets
 - Grab passwords
