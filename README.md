@@ -30,15 +30,6 @@
 │   ├── Configuration
 │   └── Themes
 │
-├── 🔧 - Utilities
-│   ├── Phishing Attack
-│   ├── Password Zip Cracked Attack
-│   ├── Password Decrypted Attack
-│   ├── Password Encrypted
-│   ├── Search In DataBase
-│   ├── Dark Web Links
-│   └── Ip Generator
-│
 └── ☠️ - Virus Builder
     └── Stealer
         ├── System Info
