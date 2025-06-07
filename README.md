@@ -5,12 +5,13 @@
 </p>
 
    <h3 align="center">GROWTOPIA STEALER WORKING & COMING SOON</h1>
-   <h4 align="center">Preview Video In The Discord!</h4>
 
 <p align="center" style="text-align: center"> 
   <img width="1200" alt="image" src="https://github.com/east-22/Osprey/blob/9120978e50403180e62dfa222f3e92507e45cfc3/Osprey%20Banner.png">
 </p>
-
+   <h4 align="center">Preview Video:</h4>
+   
+[![Watch the video](https://img.youtube.com/vi/6SGLVDaUASU/maxresdefault.jpg)]([https://www.youtube.com/watch?v=Z_x5tuxniNA](https://www.youtube.com/watch?v=6SGLVDaUASU))
 
 ### Features
 ```
@@ -50,7 +51,7 @@
 - Token Sniper
 - Crypto Wallets
 - Grab passwords
-
+  
 ### Screenshots:
 <p align="center">
   <img src="OspreyDashboard.png" width="49%"> 
